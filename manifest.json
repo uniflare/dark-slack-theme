@@ -13,8 +13,7 @@
     "run_at": "document_start"
   }],
   "background": {
-    "page": "background.html",
-    "persistent": false
+    "page": "background.html"
   },
   "browser_action": {
     "default_icon": "images/dslack24.ico",
